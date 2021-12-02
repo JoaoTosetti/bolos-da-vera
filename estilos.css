@@ -68,6 +68,7 @@ body {
 
 .banner {
     width: 1200px;
+    height: 445px;
     margin-left: auto;
     margin-right: auto;
     
@@ -89,6 +90,8 @@ body {
     text-align: center;
     color: #720026;
 
+    margin-top: 0;
+    margin-bottom: 0;
     padding-top: 35px;
     padding-bottom: 20px;
 }
@@ -108,4 +111,36 @@ body {
     width: 1200px;
     height: 395px;
     background-color: #FFCDB2;
+
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: 5px solid #F08080;
+}
+
+.nome-fotos {
+    font-size: 45px;
+    font-family: Great Vibes;
+    font-weight: 400;
+    text-align: center;
+    color: #720026;
+
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 35px;
+    padding-bottom: 40px;
+}
+
+.fotos-bolo {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+
+    border: 5px solid #D1495B;
+    margin-left: 127px;
+    margin-right: auto;
+}
+
+.contato {
+    margin-left: auto;
+    margin-right: auto;
 }
