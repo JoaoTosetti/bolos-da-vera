@@ -141,6 +141,27 @@ body {
 }
 
 .contato {
-    margin-left: auto;
+    width: 1200px;
+    height: 430px;
+
+    border-bottom: 5px solid #D1495B;
     margin-right: auto;
+    margin-left: auto;
 }
+
+.nome-contato {
+    font-size: 45px;
+    font-family: Great Vibes;
+    font-weight: 400;
+    text-align: center;
+    color: #720026;
+
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.maps {
+    margin-right: 400px;
+    margin-left: 340px;
+}
+
