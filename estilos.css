@@ -62,7 +62,7 @@ body {
 
 .foto-banner {
     width: 1200px;
-    height: 445px;
+    height: 446px;
     object-fit: cover;
 }
 
@@ -133,7 +133,6 @@ body {
 .fotos-bolo {
     width: 200px;
     height: 200px;
-    text-align: center;
 
     border: 5px solid #D1495B;
     margin-left: 127px;
@@ -165,3 +164,28 @@ body {
     margin-left: 340px;
 }
 
+.footer {
+    width: 1200px;
+    height: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+.nome-footer {
+    font-size: 60px;
+    font-family: Great Vibes;
+    font-weight: 400;
+    color: #007EA7;
+    line-height: 60%;
+
+    margin-top: 4px;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-left: auto;
+
+}
+
+.rede-social {
+    width: 40px;
+}
