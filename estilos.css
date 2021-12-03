@@ -137,6 +137,7 @@ body {
     border: 5px solid #D1495B;
     margin-left: 127px;
     margin-right: auto;
+    object-fit: cover;
 }
 
 .contato {
